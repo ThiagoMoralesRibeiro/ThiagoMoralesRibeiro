@@ -3,10 +3,10 @@
 ## Bem-vindo(a) ao perfil do Thiago Ribeiro🎻💻
  <div>
    <a href="https://github.com/ThiagoMoralesRibeiro">
-   <img height="210em" src="https://github-readme-stats.vercel.app/api?username=ThiagoMoralesRibeiro&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+   <img height="210em" src="https://github-readme-stats.vercel.app/api?username=ThiagoMoralesRibeiro&show_icons=true&theme=darkt&include_all_commits=true&count_private=true"/>
     </br>
     </br>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMoralesRibeiro&layout=compact&langs_count=6&theme=highcontrast"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMoralesRibeiro&layout=compact&langs_count=6&theme=dark"/>
 
 </div>
 <div style="display: inline_block"><br>
