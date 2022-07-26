@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
+
 ## Bem-vindo(a) ao perfil do Thiago Ribeiro 
  <div>
    <a href="https://github.com/ThiagoMoralesRibeiro">
