@@ -3,7 +3,7 @@
 ## Bem-vindo(a) ao perfil do Thiago Ribeiro 
  <div>
    <a href="https://github.com/ThiagoMoralesRibeiro">
-   <img height="200em" width="200em"src="https://github-readme-stats.vercel.app/api?username=ThiagoMoralesRibeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ThiagoMoralesRibeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     </br>
     </br>
     </br>
