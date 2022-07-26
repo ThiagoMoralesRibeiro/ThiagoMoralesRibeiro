@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
 
-## Bem-vindo(a) ao perfil do Thiago Ribeiro 
+## Bem-vindo(a) ao perfil do Thiago Ribeiro🎻💻
  <div>
    <a href="https://github.com/ThiagoMoralesRibeiro">
    <img height="210em" src="https://github-readme-stats.vercel.app/api?username=ThiagoMoralesRibeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
