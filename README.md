@@ -31,8 +31,8 @@ Olá, sou Thiago Ribeiro, apaixonado por desenvolvimento e música! 🎶💻
 ## 🚀 Vamos conectar?
 
 - GitHub: [ThiagoMoralesRibeiro](https://github.com/ThiagoMoralesRibeiro)
-- LinkedIn: [Thiago Ribeiro](https://www.linkedin.com/in/thiagomoralesribeiro/) *(se tiver o LinkedIn)*
-- Twitter: [@ThiagoRibeiroDev](https://twitter.com/ThiagoRibeiroDev) *(se tiver Twitter)*
+- LinkedIn: [Thiago Ribeiro]([https://www.linkedin.com/in/thiagomoralesribeiro/](https://www.linkedin.com/in/thiagomrib/))
+- Twitter: [@ThiagoRibeiroDev](https://twitter.com/ThiagoRibeiroDev)
 
 ## ✨ Sobre mim
 
