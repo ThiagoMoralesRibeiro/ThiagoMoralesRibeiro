@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao perfil do Thiago Ribeiro 🎻💻
+# Bem-vindo(a) ao perfil do Thiago Ribeiro 🎻💻🎈
 
 Olá, sou Thiago Ribeiro, apaixonado por desenvolvimento e música! 🎶💻
 
